@@ -2,7 +2,7 @@
 
 
 ## <h1>Hi 👋, I'm Upesh Chalise</h1>
-### <p>A Full-Stack Developer from Nepal.</p>
+### <p>A Full-Stack Developer.</p>
 
 #### - 🔭 I’m currently working on something.
 #### - 🌱 I’m currently learning golang
