@@ -5,7 +5,6 @@
 ### <p>A Full-Stack Developer.</p>
 
 #### - 🔭 I’m currently working on something.
-#### - 🌱 I’m currently learning golang
 #### - 👯 I’m looking to collaborate on web dev projects
 
 <h2>🚀 Languages and Tools I Use</h2>
